@@ -1,0 +1,8 @@
+---
+default_projects:
+  "build": "bin"
+  "test": "tests"
+project_aliases:
+  "bin": "greyhound"
+  "lib": "greyhound-lib"
+  "tests": "greyhound-tests"

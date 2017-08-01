@@ -1,0 +1,13 @@
+# Symlinks for Unix
+bazel-bin
+bazel-genfiles
+bazel-greyhound
+bazel-out
+bazel-testlogs
+
+# Folders for Windows
+bazel-bin/
+bazel-genfiles/
+bazel-greyhound/
+bazel-out/
+bazel-testlogs/
